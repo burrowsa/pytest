@@ -24,6 +24,9 @@ scales to support complex functional testing.  It provides
 
 .. image:: https://secure.travis-ci.org/hpk42/pytest.png
    :target: http://travis-ci.org/hpk42/pytest
+   
+This Fork: .. image:: https://secure.travis-ci.org/burrowsa/pytest.png
+   :target: http://travis-ci.org/burrowsa/pytest
 
 A simple example for a test::
 

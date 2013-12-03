@@ -3,8 +3,3 @@ language: python
 install: "pip install -U detox"
 # # command to run tests
 script: detox --recreate
-notifications:
-  irc:
-    - "chat.freenode.net#pytest-dev"
-  email:
-    - pytest-commit@python.org

@@ -1,4 +1,3 @@
-
 Documentation: http://pytest.org/latest/
 
 Changelog: http://pytest.org/latest/changelog.html
@@ -25,7 +24,8 @@ scales to support complex functional testing.  It provides
 .. image:: https://secure.travis-ci.org/hpk42/pytest.png
    :target: http://travis-ci.org/hpk42/pytest
    
-This Fork: .. image:: https://secure.travis-ci.org/burrowsa/pytest.png
+This Fork:
+.. image:: https://secure.travis-ci.org/burrowsa/pytest.png
    :target: http://travis-ci.org/burrowsa/pytest
 
 A simple example for a test::

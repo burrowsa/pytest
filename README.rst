@@ -26,8 +26,8 @@ scales to support complex functional testing.  It provides
    
 This Fork:
 
-.. image:: https://secure.travis-ci.org/burrowsa/pytest.png
-   :target: http://travis-ci.org/burrowsa/pytest
+.. image:: https://secure.travis-ci.org/burrowsa/pytest.png?branch=master
+   :target: http://travis-ci.org/burrowsa/pytest?branch=master
 
 A simple example for a test::
 
